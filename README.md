@@ -46,6 +46,8 @@ When I'm not coding, I'm probably thinking about coding... or eating 🍕.
 ## 🌟 My GitHub Activities
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrijeshSajeev&theme=tokyonight&margin-w=10&column=7" alt="GitHub Trophies" />
+  <br>
   <img src="https://streak-stats.demolab.com/?user=BrijeshSajeev&theme=tokyonight" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshSajeev&layout=compact&theme=tokyonight" alt="Top Languages" />
