@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Ruby, Rails & Python Enthusiast
 
----
+---__
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=40&desc=Glad%20You%27re%20Here!&descAlign=50&descAlignY=70" alt="Welcome Banner"/>
@@ -44,7 +44,7 @@ I'm a passionate Software Engineer who loves turning coffee ☕ into scalable co
 - **Databases/Cache:** PostgreSQL, Redis, SQL
 - **Other Interests:** Writing clean, maintainable code; Learning new tech; Debugging (sometimes my own sanity 😅)
 
-## 🤹 Fun Bio
+## 🤹 Bio
 
 I spend my days wrangling code and my nights convincing my code to work.  
 If you find me talking to my rubber duck, don’t worry—it’s just “pair programming.”  
