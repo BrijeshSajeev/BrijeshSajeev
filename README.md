@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Ruby, Rails & Python Enthusiast
 
----__
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=40&desc=Glad%20You%27re%20Here!&descAlign=50&descAlignY=70" alt="Welcome Banner"/>
