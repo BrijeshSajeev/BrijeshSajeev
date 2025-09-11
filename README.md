@@ -42,7 +42,7 @@ I'm a passionate Software Engineer who loves turning coffee ☕ into scalable co
 - **Frameworks:** Ruby on Rails, FastAPI, SpringBoot, Nodejs
 - **Frontend:** HTML, CSS, TailwindCSS
 - **Databases/Cache:** PostgreSQL, Redis, SQL
-- **Other Interests:** Writing clean, maintainable code; Learning new tech; Debugging (sometimes my own sanity 😅)
+- **Other Interests:** Writing clean, maintainable code; Learning new tech; Debugging (sometimes my own sanity 😅), Computer Networks.
 
 ## 🤹 Bio
 
